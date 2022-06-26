@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 I am just doing it for sake of understaing
+=======
+dsfsfsfsfsfsfsfsf
+>>>>>>> ff5390a5ae5d2eb7a7c2601afe311c838d112b6a
